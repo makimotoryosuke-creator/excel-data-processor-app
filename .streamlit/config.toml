@@ -1,0 +1,5 @@
+# .streamlit/config.toml の内容
+[general]
+# ログイン画面を有効にする設定
+[server]
+runOnSave = false # セキュリティのため
